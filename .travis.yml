@@ -3,3 +3,10 @@
     - "3.6"
   script:
     - python main_app.py
+  deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "88978c6b95f7d4aaf65c16178b40fb18ce55305"
+  keep-history: true
+  on:
+    branch: master

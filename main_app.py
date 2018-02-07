@@ -9,7 +9,7 @@ def run_script():
     articles = driver.find_elements_by_xpath(article_xpath)
     number_of_articles = str(len(articles))
 
-    with open('num.txt', 'w') as file:
+    with open('index.html', 'w') as file:
             file.write(number_of_articles)
 
     driver.close()

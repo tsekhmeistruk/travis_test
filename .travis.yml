@@ -6,7 +6,7 @@
   deploy:
   provider: pages
   skip-cleanup: true
-  github-token: "88978c6b95f7d4aaf65c16178b40fb18ce55305"
+  github-token: $GITHUB_API_KEY
   keep-history: true
   on:
     branch: master

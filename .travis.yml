@@ -2,4 +2,4 @@
   python:
     - "3.6"
   script:
-    - main_app.py
+    - python main_app.py

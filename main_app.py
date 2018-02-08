@@ -2,12 +2,14 @@ import urllib
 import json
 import os
 import shutil
-
 import sys
 from selenium import webdriver
 
+repo_base_url = 'https://tsekhmeistruk.github.io/travis_test/'
+
 
 def run_script():
+
     driver = webdriver.PhantomJS()
     base_url = "https://moscowshow.com/"
     article_xpath = "//*[@id='main']//article"
@@ -23,8 +25,7 @@ def run_script():
             img_link = img_elements[0].get_attribute("src")
 
             # file_path = os.path.realpath('') + "/docs/images/"
-            file_path = ''
-            img_link_new = file_path + event_id + ".jpg"
+            img_link_new = repo_base_url + event_id + ".jpg"
 
             download_img(img_link, img_link_new)
         title_elements = article.find_elements_by_xpath(".//h5/a")
@@ -37,7 +38,8 @@ def run_script():
 
         event_object = {"id": event_id, "img": img_link, "title": title_text, "date": date_text, "img_new": img_link_new}
         data.append(event_object)
-
+        break
+        
     write_json_output(data)
     driver.close()
 
@@ -49,9 +51,8 @@ def download_img(url, file):
 
 
 def write_json_output(data):
-    file_path = ''
     #  file_path = os.path.realpath('') + "/docs/"
-    filename = file_path + 'results.json'
+    filename = repo_base_url + 'results.json'
     with open(filename, 'w', encoding='utf-8') as outfile:
         json.dump(data, outfile, indent=4, ensure_ascii=False)
 

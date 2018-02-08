@@ -1,0 +1,394 @@
+[
+    {
+        "id": "post-4990",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/08/older_son.jpg",
+        "title": "Старший сын",
+        "date": "09.02.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4990.jpg"
+    },
+    {
+        "id": "post-4855",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/10/intimnaya.jpg",
+        "title": "Интимная жизнь",
+        "date": "09.02.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4855.jpg"
+    },
+    {
+        "id": "post-4916",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/malenkie_komedii_soldout.jpg",
+        "title": "Маленькие комедии",
+        "date": "11.02.2018 19:30 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4916.jpg"
+    },
+    {
+        "id": "post-4865",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/04/klara.jpg",
+        "title": "Клара, деньги и любовь",
+        "date": "11.02.2018 20:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4865.jpg"
+    },
+    {
+        "id": "post-4928",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/averin_soldout.jpg",
+        "title": "Максим Аверин",
+        "date": "13.02.2018 19:00 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4928.jpg"
+    },
+    {
+        "id": "post-5058",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/11/Istoriya-Lyubvi.jpg",
+        "title": "История любви. Комедия ошибок",
+        "date": "15.02.2018 19:00 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5058.jpg"
+    },
+    {
+        "id": "post-4729",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/10/Andrew-Lloyd-Webber.jpg",
+        "title": "Эндрю Ллойд Уэббер",
+        "date": "19.02.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4729.jpg"
+    },
+    {
+        "id": "post-4866",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/06/Chapaev_pustota_web.jpg",
+        "title": "Чапаев и Пустота",
+        "date": "19.02.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4866.jpg"
+    },
+    {
+        "id": "post-5013",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/09/moscowboys2017.jpg",
+        "title": "MoscowBoys",
+        "date": "20.02.2018 19:30 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5013.jpg"
+    },
+    {
+        "id": "post-5078",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/11/nozhnicy.jpg",
+        "title": "Ножницы",
+        "date": "21.02.2018 20:00 среда",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5078.jpg"
+    },
+    {
+        "id": "post-4974",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/shedevry.jpg",
+        "title": "Шедевры мирового мюзикла",
+        "date": "23.02.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4974.jpg"
+    },
+    {
+        "id": "post-5015",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/02/milaya.jpg",
+        "title": "Милая моя",
+        "date": "25.02.2018 19:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5015.jpg"
+    },
+    {
+        "id": "post-5017",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/06/terrotoriya-strasti.jpg",
+        "title": "Территория страсти",
+        "date": "27.02.2018 19:00 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5017.jpg"
+    },
+    {
+        "id": "post-5044",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/03/les_maskarad.jpg",
+        "title": "Лес",
+        "date": "01.03.2018 19:30 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5044.jpg"
+    },
+    {
+        "id": "post-5152",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/09/moscowboys2017.jpg",
+        "title": "MoscowBoys",
+        "date": "03.03.2018 19:30 суббота",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5152.jpg"
+    },
+    {
+        "id": "post-5083",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/duenya.jpg",
+        "title": "Дуэнья",
+        "date": "03.03.2018 20:00 суббота",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5083.jpg"
+    },
+    {
+        "id": "post-5153",
+        "img": "https://moscowshow.com/upload/billboards/918/skameika_web-2.jpg",
+        "title": "Скамейка",
+        "date": "04.03.2018 20:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5153.jpg"
+    },
+    {
+        "id": "post-5132",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/sneg_v_chuzhom_gorode_.jpg",
+        "title": "Снег в чужом городе",
+        "date": "06.03.2018 19:30 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5132.jpg"
+    },
+    {
+        "id": "post-5077",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/Otdushina.jpg",
+        "title": "Гафт. Отдушина",
+        "date": "08.03.2018 19:00 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5077.jpg"
+    },
+    {
+        "id": "post-5136",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/pigmalion.jpg",
+        "title": "Пигмалион",
+        "date": "08.03.2018 21:00 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5136.jpg"
+    },
+    {
+        "id": "post-5139",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/08/zhenites_na_mne_web.jpg",
+        "title": "Женитесь на мне",
+        "date": "10.03.2018 19:00 суббота",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5139.jpg"
+    },
+    {
+        "id": "post-5059",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/04/son_razuma.jpg",
+        "title": "Сон разума",
+        "date": "15.03.2018 19:00 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5059.jpg"
+    },
+    {
+        "id": "post-5066",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/chudiki.jpg",
+        "title": "Чудики",
+        "date": "15.03.2018 19:30 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5066.jpg"
+    },
+    {
+        "id": "post-5192",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/02/milaya.jpg",
+        "title": "Милая моя",
+        "date": "18.03.2018 19:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5192.jpg"
+    },
+    {
+        "id": "post-5156",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/12/men_web-2-2.jpg",
+        "title": "Мужчины. Подслушанное",
+        "date": "19.03.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5156.jpg"
+    },
+    {
+        "id": "post-5062",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/10/averin1.jpg",
+        "title": "Максим Аверин",
+        "date": "20.03.2018 19:30 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5062.jpg"
+    },
+    {
+        "id": "post-5159",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/06/fandorin_web.jpg",
+        "title": "Приключения Фандорина",
+        "date": "21.03.2018 19:30 среда",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5159.jpg"
+    },
+    {
+        "id": "post-5193",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/08/older_son.jpg",
+        "title": "Старший сын",
+        "date": "23.03.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5193.jpg"
+    },
+    {
+        "id": "post-4301",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/03/galkin_w-1.jpg",
+        "title": "Максим Галкин",
+        "date": "23.03.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4301.jpg"
+    },
+    {
+        "id": "post-5187",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/ingroki.jpg",
+        "title": "Игроки",
+        "date": "25.03.2018 19:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5187.jpg"
+    },
+    {
+        "id": "post-5064",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/03/master-i-margarita.jpg",
+        "title": "Мастер и Маргарита",
+        "date": "25.03.2018 19:30 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5064.jpg"
+    },
+    {
+        "id": "post-5194",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/11/Istoriya-Lyubvi.jpg",
+        "title": "История любви. Комедия ошибок",
+        "date": "26.03.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5194.jpg"
+    },
+    {
+        "id": "post-5161",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/moi_vkun_veniamin-1.jpg",
+        "title": "Мой внук Вениамин",
+        "date": "28.03.2018 19:30 среда",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5161.jpg"
+    },
+    {
+        "id": "post-5195",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/09/moscowboys2017.jpg",
+        "title": "MoscowBoys",
+        "date": "01.04.2018 20:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5195.jpg"
+    },
+    {
+        "id": "post-5141",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/11/nozhnicy.jpg",
+        "title": "Ножницы",
+        "date": "01.04.2018 20:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5141.jpg"
+    },
+    {
+        "id": "post-5228",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/onegin.jpg",
+        "title": "Онегин-блюз",
+        "date": "03.04.2018 19:00 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5228.jpg"
+    },
+    {
+        "id": "post-5087",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/chudiki-1.jpg",
+        "title": "Чудики",
+        "date": "05.04.2018 19:00 четверг",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5087.jpg"
+    },
+    {
+        "id": "post-5175",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/10/malenkie_komedii.jpg",
+        "title": "Маленькие комедии",
+        "date": "08.04.2018 20:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5175.jpg"
+    },
+    {
+        "id": "post-4861",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/04/zinchuk.jpg",
+        "title": "Виктор Зинчук. Юбилейный концерт",
+        "date": "09.04.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4861.jpg"
+    },
+    {
+        "id": "post-4992",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/08/hooligan_temp.jpg",
+        "title": "Хулиган. Исповедь",
+        "date": "09.04.2018 19:30 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4992.jpg"
+    },
+    {
+        "id": "post-4929",
+        "img": "https://moscowshow.com/wp-content/uploads/2016/10/averin1.jpg",
+        "title": "Максим Аверин",
+        "date": "10.04.2018 19:30 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4929.jpg"
+    },
+    {
+        "id": "post-4995",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/04/konchalovskiy.jpg",
+        "title": "Андрей Кончаловский. Юбилей",
+        "date": "13.04.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4995.jpg"
+    },
+    {
+        "id": "post-4376",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/04/shufutinskyi.jpg",
+        "title": "Михаил Шуфутинский. Юбилейный концерт",
+        "date": "15.04.2018 19:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4376.jpg"
+    },
+    {
+        "id": "post-5215",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/Pianoboy.png",
+        "title": "Pianoboy Kao Chih Hao",
+        "date": "16.04.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5215.jpg"
+    },
+    {
+        "id": "post-5165",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/04/kukushka.jpg",
+        "title": "Пролетая над гнездом кукушки",
+        "date": "16.04.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5165.jpg"
+    },
+    {
+        "id": "post-4877",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/04/2017-11-13-13.11.56.jpg",
+        "title": "Хабенский и Башмет",
+        "date": "22.04.2018 18:00 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4877.jpg"
+    },
+    {
+        "id": "post-5196",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/moi_vkun_veniamin-1.jpg",
+        "title": "Мой внук Вениамин",
+        "date": "23.04.2018 19:30 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5196.jpg"
+    },
+    {
+        "id": "post-5224",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/02/kosmetika-vraga.jpg",
+        "title": "Косметика врага",
+        "date": "24.04.2018 19:30 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5224.jpg"
+    },
+    {
+        "id": "post-4764",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/04/3-akkorda-1.jpg",
+        "title": "Три аккорда",
+        "date": "27.04.2018 19:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-4764.jpg"
+    },
+    {
+        "id": "post-5203",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/05/fortepiannaya_duel_2.jpg",
+        "title": "Клаудио Курро Досси и Ламберто Василини: «Фортепианная дуэль»",
+        "date": "14.05.2018 19:00 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5203.jpg"
+    },
+    {
+        "id": "post-5144",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/Al-Di-Meola.jpg",
+        "title": "Al di Meola",
+        "date": "20.05.2018 19:30 воскресенье",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5144.jpg"
+    },
+    {
+        "id": "post-5004",
+        "img": "https://moscowshow.com/wp-content/uploads/2017/12/enrique_iglesias_web.png",
+        "title": "Энрике Иглесиас",
+        "date": "01.06.2018 20:00 пятница",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5004.jpg"
+    },
+    {
+        "id": "post-5179",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/kysya_2018.jpg",
+        "title": "Кыся",
+        "date": "27.06.2018 19:30 среда",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5179.jpg"
+    },
+    {
+        "id": "post-5123",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/08/La_scala_new.jpg",
+        "title": "Ла Скала / Большой театр",
+        "date": "28.08.2018 19:00 вторник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5123.jpg"
+    },
+    {
+        "id": "post-5124",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/08/La_scala_new.jpg",
+        "title": "Ла Скала / Большой театр",
+        "date": "29.08.2018 19:00 среда",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5124.jpg"
+    },
+    {
+        "id": "post-5129",
+        "img": "https://moscowshow.com/wp-content/uploads/2018/01/klaiderman.jpg",
+        "title": "Ричард Клайдерман",
+        "date": "24.09.2018 19:30 понедельник",
+        "img_new": "C:\\Users\\Tsekh\\PycharmProjects\\travis_ci_test_proj/docs/images/post-5129.jpg"
+    }
+]

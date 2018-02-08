@@ -36,7 +36,7 @@ def run_script():
 
         event_object = {"id": event_id, "img": img_url, "title": title_text, "date": date_text}
         data.append(event_object)
-        break
+
     write_json_output(data)
     driver.close()
 

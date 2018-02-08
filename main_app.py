@@ -7,6 +7,9 @@ import sys
 from selenium import webdriver
 
 
+repo_base_url = 'https://tsekhmeistruk.github.io/travis_test/'
+
+
 def run_script():
     driver = webdriver.PhantomJS()
     base_url = "https://moscowshow.com/"
@@ -27,6 +30,7 @@ def run_script():
             img_link_new = file_path + event_id + ".jpg"
 
             download_img(img_link, img_link_new)
+            img_url = repo_base_url + event_id + ".jpg"
         title_elements = article.find_elements_by_xpath(".//h5/a")
         if len(title_elements) > 0:
             title_text = title_elements[0].text
@@ -35,8 +39,9 @@ def run_script():
         if len(date_elements) > 0:
             date_text = date_elements[0].text
 
-        event_object = {"id": event_id, "img": img_link, "title": title_text, "date": date_text, "img_new": img_link_new}
+        event_object = {"id": event_id, "img": img_link, "title": title_text, "date": date_text, "img_url": img_url}
         data.append(event_object)
+        break
 
     write_json_output(data)
     driver.close()

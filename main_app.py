@@ -22,7 +22,8 @@ def run_script():
         if len(img_elements) > 0:
             img_link = img_elements[0].get_attribute("src")
 
-            file_path = os.path.realpath('') + "/docs/images/"
+            # file_path = os.path.realpath('') + "/docs/images/"
+            file_path = ''
             img_link_new = file_path + event_id + ".jpg"
 
             download_img(img_link, img_link_new)
@@ -48,7 +49,8 @@ def download_img(url, file):
 
 
 def write_json_output(data):
-    file_path = os.path.realpath('') + "/docs/"
+    file_path = ''
+    #  file_path = os.path.realpath('') + "/docs/"
     filename = file_path + 'results.json'
     with open(filename, 'w', encoding='utf-8') as outfile:
         json.dump(data, outfile, indent=4, ensure_ascii=False)

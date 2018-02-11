@@ -2,7 +2,7 @@
   python:
     - "3.6"
   script:
-    - python main_app.py
+    - travis_wait 30 python main_app.py
   deploy:
     provider: pages
     skip-cleanup: true

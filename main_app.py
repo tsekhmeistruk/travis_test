@@ -43,6 +43,7 @@ def run_script():
 
             event_object = {"id": event_id, "img": img_url, "title": title_text, "date": date_text, "details": details}
             data.append(event_object)
+            print(event_id)
         except IndexError:
             continue
         except NoSuchElementException:
